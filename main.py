@@ -1,3 +1,4 @@
+print("<-------------------Part 1(1)------------------->")
 from bs4 import BeautifulSoup
 import requests
 import csv
